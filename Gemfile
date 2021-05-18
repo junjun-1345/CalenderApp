@@ -60,3 +60,5 @@ gem 'devise-i18n'
 gem 'devise-i18n-views'
 
 gem 'simple_calendar', '~> 2.0'
+
+gem 'sprockets', '~> 3.7.2'
